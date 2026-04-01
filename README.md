@@ -1,7 +1,28 @@
-# 👋 Olá, eu sou Phelipe
+# 👋 Olá, eu sou Phelipe  
 
-**`Developer`**  
-Construo aplicações escaláveis, com foco em código limpo, performance e boas práticas.
+**`Full Stack Developer | AI Builder`**  
+
+Construo aplicações escaláveis e inteligentes, combinando **engenharia de software sólida** com **inteligência artificial** para resolver problemas reais.  
+Foco em código limpo, performance e experiências que fazem sentido para o usuário.
+
+---
+
+### 🚀 Sobre mim
+
+- 💡 Desenvolvedor focado em **produtos e soluções inteligentes**
+- 🤖 Explorando e integrando **IA (LLMs, automações e APIs inteligentes)**
+- ⚡ Experiência com aplicações modernas, rápidas e escaláveis
+- 🧠 Sempre aprendendo novas formas de otimizar código e processos
+
+---
+
+### 🧠 IA & Automação
+
+- Integração com APIs de IA (OpenAI, etc.)
+- Criação de assistentes inteligentes e chatbots
+- Automação de tarefas e fluxos com IA
+- Processamento de texto e geração de conteúdo
+- Engenharia de prompts (Prompt Engineering)
 
 ---
 
@@ -18,6 +39,15 @@ Construo aplicações escaláveis, com foco em código limpo, performance e boas
 
 ---
 
+### 🔧 Tecnologias em IA
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
 ### 📊 Estatísticas
 
 <div align="center">
@@ -27,4 +57,13 @@ Construo aplicações escaláveis, com foco em código limpo, performance e boas
 
 ---
 
-> 💡 “Simplicidade é a alma da eficiência.” – *Austin Freeman*
+### 🌎 O que estou construindo
+
+- 🤖 Aplicações com IA integrada ao frontend
+- ⚙️ Sistemas automatizados para produtividade
+- 📈 Ferramentas que combinam dados + inteligência
+
+---
+
+> 💡 “Simplicidade é a alma da eficiência.” – *Austin Freeman*  
+> 🤖 “Software inteligente não é o futuro — é o presente.”
