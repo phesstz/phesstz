@@ -1,18 +1,6 @@
 # 👋 Olá, eu sou Phelipe  
 
-**`Full Stack Developer | AI Builder`**  
-
-Construo aplicações escaláveis e inteligentes, combinando **engenharia de software sólida** com **inteligência artificial** para resolver problemas reais.  
-Foco em código limpo, performance e experiências que fazem sentido para o usuário.
-
----
-
-### 🚀 Sobre mim
-
-- 💡 Desenvolvedor focado em **produtos e soluções inteligentes**
-- 🤖 Explorando e integrando **IA (LLMs, automações e APIs inteligentes)**
-- ⚡ Experiência com aplicações modernas, rápidas e escaláveis
-- 🧠 Sempre aprendendo novas formas de otimizar código e processos
+**`Developer | AI Builder`**  
 
 ---
 
@@ -34,8 +22,6 @@ Foco em código limpo, performance e experiências que fazem sentido para o usu�
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -48,22 +34,4 @@ Foco em código limpo, performance e experiências que fazem sentido para o usu�
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</div>
-
----
-
-### 🌎 O que estou construindo
-
-- 🤖 Aplicações com IA integrada ao frontend
-- ⚙️ Sistemas automatizados para produtividade
-- 📈 Ferramentas que combinam dados + inteligência
-
----
-
 > 💡 “Simplicidade é a alma da eficiência.” – *Austin Freeman*  
-> 🤖 “Software inteligente não é o futuro — é o presente.”
