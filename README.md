@@ -6,7 +6,7 @@
 
 ### 🧠 IA & Automação
 
-- Integração com APIs de IA (OpenAI, etc.)
+- Integração com APIs de IA 
 - Criação de assistentes inteligentes e chatbots
 - Automação de tarefas e fluxos com IA
 - Processamento de texto e geração de conteúdo
