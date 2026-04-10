@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou Phelipe  
 
-**`Developer | AI Builder`**  
-
 ---
 
 ### 🧠 IA & Automação
