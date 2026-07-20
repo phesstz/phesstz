@@ -1,14 +1,4 @@
-# 👋 Olá, eu sou Phelipe  
-
----
-
-### 🧠 IA & Automação
-
-- Integração com APIs de IA 
-- Criação de assistentes inteligentes e chatbots
-- Automação de tarefas e fluxos com IA
-- Processamento de texto e geração de conteúdo
-- Engenharia de prompts (Prompt Engineering)
+# Phelipe.
 
 ---
 
